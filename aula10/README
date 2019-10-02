@@ -1,0 +1,12 @@
+1) abra um terminal no diretório backend e execute os comandos abaixo
+	yarn install
+	yarn start
+	
+	
+2) abra o arquivo frontend/App.js. Edite o endereço ip na linha 4 desse arquivo inserindo o endereço ip da sua máquina (não pode ser localhost)
+
+3) abra um terminal no diretório frontend e execute os comandos abaixo
+	yarn install
+	yarn start
+	
+execute o aplicativo expo no dispositivo de sua preferência
