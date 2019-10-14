@@ -15,11 +15,13 @@ export default class Home extends Component {
     }
 
     componentDidMount() {
-        firebase.firestore().collection("banco").get()
+        firebase.firestore().collection("livros").get()
             .then((querySnapshot) => {
+                let livros = []
                 querySnapshot.forEach((doc) => {
-                    this.setState({livros: doc.data().livros})
+                    livros.push(doc.data())
                 });
+                this.setState({livros: livros})
             })
     }
 
