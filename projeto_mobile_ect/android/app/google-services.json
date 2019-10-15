@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "112397611237",
+    "firebase_url": "https://ect-mobile-2019.firebaseio.com",
+    "project_id": "ect-mobile-2019",
+    "storage_bucket": "ect-mobile-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112397611237:android:98edde0bd6490f54e9a40c",
+        "android_client_info": {
+          "package_name": "com.aula13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112397611237-6hriphog183gqnn9cp6erfsefqvlvau7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9983VKvRNIUf3Vwb5G6hh8HEZRCIVE70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112397611237-6hriphog183gqnn9cp6erfsefqvlvau7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112397611237:android:8ac479efadf95051e9a40c",
+        "android_client_info": {
+          "package_name": "com.invertase.rnfirebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112397611237-6hriphog183gqnn9cp6erfsefqvlvau7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9983VKvRNIUf3Vwb5G6hh8HEZRCIVE70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112397611237-6hriphog183gqnn9cp6erfsefqvlvau7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112397611237:android:23cf25a98316154fe9a40c",
+        "android_client_info": {
+          "package_name": "com.projeto_mobile_ect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112397611237-6hriphog183gqnn9cp6erfsefqvlvau7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9983VKvRNIUf3Vwb5G6hh8HEZRCIVE70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112397611237-6hriphog183gqnn9cp6erfsefqvlvau7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
